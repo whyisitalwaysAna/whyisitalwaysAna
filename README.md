@@ -34,4 +34,34 @@ Welcome to my profile! I'm a student, aspiring coder and full-time mother of tor
   • BEM Technologies
 </pre>
 
-<br/>
+<h3>🦚 Open source projects:</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📚 Description</b></td>
+      <td><b>🔗 Link</b></td>
+      <td><b>⁉️ Stage</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/whyisitalwaysAna/coffee-house"><b>Coffee House</b></a></td>
+      <td>Two-page website store for a coffee shop</td>
+      <td>https://whyisitalwaysana.github.io/coffee-house/src/html/main.html</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/whyisitalwaysAna/food"><b>Food menu</b></a></td>
+      <td>Landing page for selling healthy food rations</td>
+      <td>https://whyisitalwaysana.github.io/food/</td>
+      <td>In progress</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/whyisitalwaysAna/hangman-game-s1e1"><b>Hangman game</b></a></td>
+    <td>Hangman is a classic word game in which you must find the correct answer by guessing letters one at a time. JavaScript only!</td>
+    <td>https://whyisitalwaysana.github.io/hangman-game-s1e1/dist/</td>
+    <td>In progress</td>
+    </tr>
+  </tbody>
+</table>
