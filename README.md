@@ -12,10 +12,26 @@
   </a>
 </div>
 </br>
+
 Welcome to my profile! I'm a student, aspiring coder and full-time mother of tortoise. I am currently looking for an internship and working as an accountant-administrative for a [veterinary company](https://bigpaw.ru/). Thanks for visiting and I'd love to connect!
 
-<h2>What about my skills? 👩‍💻</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyisitalwaysAna)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Things I code with:</h2>
+<h3>🌵 Languages:</h3>
+<pre>
+  • JavaScript/TypeScript, React
+</pre>
 
+<h3>🌿 Technologies:</h3>
+<pre>
+  • HTML5/CSS3, SASS
+  <br>
+  • Bootstrap, jQuery, Next.js
+  <br>
+  • Node.js
+  <br>
+  • Git, NPM, WebPack/Gulp
+  <br>
+  • BEM Technologies
+</pre>
 
-
+<br/>
