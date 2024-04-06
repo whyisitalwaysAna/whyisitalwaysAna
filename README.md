@@ -13,7 +13,7 @@
 </div>
 </br>
 
-Welcome to my profile! I'm a student, aspiring coder and full-time mother of tortoise. I am currently looking for an internship and working as an accountant-administrative for a [veterinary company](https://bigpaw.ru/). Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a student, aspiring coder and full-time mother of tortoise. Thanks for visiting and I'd love to connect!
 
 <h2>Things I code with:</h2>
 <h3>🌵 Languages:</h3>
