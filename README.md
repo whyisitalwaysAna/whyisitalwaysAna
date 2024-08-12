@@ -18,14 +18,14 @@ Welcome to my profile! I'm a student, aspiring coder and full-time mother of tor
 <h2>Things I code with:</h2>
 <h3>🌵 Languages:</h3>
 <pre>
-  • JavaScript/TypeScript, React
+  • JavaScript, React
 </pre>
 
 <h3>🌿 Technologies:</h3>
 <pre>
   • HTML5/CSS3, SASS
   <br>
-  • Bootstrap, jQuery, Next.js
+  • Bootstrap, jQuery
   <br>
   • Node.js
   <br>
